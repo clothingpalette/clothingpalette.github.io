@@ -202,7 +202,7 @@ if ($result != NULL) {
 </p>
 </form>
 
-<p>Powered by <a href="http://jemsmailform.com/">Jem's PHP Mail Form</a></p>
+<p>Powered by <a href="http://jemsmailform.com/">Clothingpalette</a></p>
 
 
 </body>
